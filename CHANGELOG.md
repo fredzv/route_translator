@@ -1,5 +1,10 @@
 # Changelog
 
+## 6.0.0 / unreleased
+
+* [BUGFIX] Verify host path consistency by default ([#91](https://github.com/enriclluelles/route_translator/issues/91), [#171](https://github.com/enriclluelles/route_translator/issues/171))
+* [FEATURE] Remove the option to verify host path consistency
+
 ## 5.6.0 / 2018-02-05
 
 * [FEATURE] Add Rails 5.2 compatibility
